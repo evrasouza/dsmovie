@@ -12,7 +12,7 @@ import com.evraio.dsmovie.repositories.MovieRepository;
 
 @Service
 public class MovieService {
-	
+
 	@Autowired
 	private MovieRepository repository;
 	
@@ -29,5 +29,4 @@ public class MovieService {
 		MovieDTO dto = new MovieDTO(result);
 		return dto;
 	}
-
 }
