@@ -43,7 +43,7 @@ https://www.figma.com/file/hyovBMIxwrn2Bb5MZLrxHL/DSMovie4
 
 🌎 **Acesse agora:**
 
-<a href="dsmovie-biacoelho.netlify.app/" target="_blank" title="acessar o site"><strong>https://dsmovie-biacoelho.netlify.app</strong></a>
+<a href="dsmovie-evraio.netlify.app/" target="_blank" title="acessar o site"><strong>https://dsmovie-evraio.netlify.app</strong></a>
 []()
 
 <h1 style="padding: 50px; background: #333333;">
